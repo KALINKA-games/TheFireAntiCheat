@@ -30,12 +30,10 @@
 
 ##  Установка
 
-1. Скомпилируйте проект в IntelliJ IDEA: **Build → Build Project** (`Ctrl+F9`)
-2. Найдите файл `target/TheFireAntiCheat.jar`
-3. Скопируйте его в папку `plugins/` вашего сервера
-4. Перезапустите сервер (`/restart`)
-5. После первого запуска создастся папка `plugins/TheFireAntiCheat/` с конфигурацией
-
+1.Скачайте файл TheFireAntiCheat.jar
+2.Добавьте файл в папку Plugins на вашем сервере
+3.Перезапустите сервер
+4. Настройте config.yml
 ---
 
 ## ️ Настройка config.yml
